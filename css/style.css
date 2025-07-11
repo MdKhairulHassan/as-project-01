@@ -191,3 +191,120 @@ header nav ul {
   color: #b3b3b3;
 }
 /* User Say Part End */
+
+/* Focus Part Start */
+.focus-part {
+  padding: 70px 0;
+}
+.focus-heading {
+  background-color: white;
+  padding: 70px 0;
+  border-radius: 14px;
+}
+.focus-heading h2 {
+  font-size: 50px;
+  font-weight: bold;
+}
+.focus-heading h6 {
+  font-size: 16px;
+  font-weight: 400;
+  padding: 20px 0;
+}
+.focus-heading img {
+  border-radius: 48px;
+  margin-top: 30px;
+}
+/* Focus Part End */
+
+/* Contact Part Start */
+.contact-part {
+  padding: 100px 0;
+}
+.contact-details {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.contact-heading {
+  width: 50%;
+}
+.contact-heading h2 {
+  font-size: 97px;
+  font-weight: bold;
+}
+.contact-details form {
+  width: 50%;
+  display: flex;
+  justify-content: flex-end;
+}
+.form-text label {
+  padding-top: 30px;
+  display: block;
+  font-size: 18px;
+  font-weight: 500;
+  color: black;
+}
+.form-text input {
+  margin-top: 8px;
+  font-size: 20px;
+  font-weight: 400;
+  padding: 20px 32px;
+  border: 1px solid #d6dded;
+  border-radius: 10px;
+}
+.form-text textarea {
+  margin-top: 8px;
+  font-size: 20px;
+  font-weight: 400;
+  padding: 20px 32px;
+  border: 1px solid #d6dded;
+  border-radius: 10px;
+}
+.form-text button {
+  margin-top: 20px;
+  padding: 18px 0;
+  width: 100%;
+}
+/* Contact Part End */
+
+/* Footer Part Start */
+footer {
+  padding: 100px 0;
+  background-color: white;
+}
+.footer-text {
+  text-align: center;
+}
+.footer-text h3 {
+  font-size: 100px;
+  font-weight: 900;
+}
+.footer-text p {
+  font-size: 16px;
+  font-weight: 400;
+  padding: 10px 370px;
+}
+.footer-pages {
+  display: flex;
+  justify-content: center;
+  padding-top: 20px;
+}
+.footer-nav {
+  width: 30%;
+}
+.footer-nav ul {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.footer-nav ul li {
+  list-style: none;
+}
+.footer-nav ul li a {
+  text-decoration: none;
+}
+.footer-nav ul li a {
+  font-size: 16px;
+  font-weight: 400;
+}
+/* Footer Part End */
